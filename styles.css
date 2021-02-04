@@ -1,11 +1,10 @@
 body {
-    width: 100%;
+    width: 90%%;
     height: 100%;
     font-family: Arial;
     font-size: 15px;
     margin: .5in;
     padding: 0;
-    overflow: hidden;
 }
 
 h2 {
@@ -14,23 +13,58 @@ h2 {
 
 
 h1 {
+    font-variant: small-caps;
+    font-size: .5in;
     text-align: center;
     color: rgb(230, 195, 0);
+    text-shadow: 2px 2px gainsboro;
+}
+
+#contactInfo{
+    width: 50%;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 241, 162);
+    margin-bottom: 10px;
+}
+
+th, td {
+    background-color: rgb(255, 255, 255);
+}
+
+#recordInfo{
+    width: 90%;
+    border: 2px solid rgb(255, 255, 255);
+    background-color: rgb(255, 241, 162);
+    margin-bottom: 10px;
+}
+
+#journal {
+    padding-left: 10px;
+    padding-bottom: 1px;
+    background-color: gainsboro;
+    padding-top: 1px;
 }
 
 #contact {
     padding-left: 10px;
     padding-bottom: 1px;
+    padding-top: 1px;
     background-color:gainsboro;
 }
 
 #meeting {
     padding-left: 10px;
     padding-bottom: 1px;
+    padding-top: 1px;
 }
 
 #roles {
     padding-left: 10px;
     padding-bottom: 1px;
     background-color: gainsboro;
+    padding-top: 1px;
+}
+
+#client_info {
+    padding-top: 10px;
 }
