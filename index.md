@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -14,7 +13,7 @@
             <h1 id="title">PROMISED LAND JOURNEY™ Game Board</h1>
             <div id="bodyy">
                 <div id="contact">
-                    <h2 class="subtitle">Contact Information</h2> 
+                    <h2 class="subtitle">Contact Information and Team Roles</h2> 
                     <table id="contactInfo">
                         <tr style="text-align: center;">
                           <th>Name</th>
@@ -41,17 +40,31 @@
 
                 <div id="meeting">
                     <h2 class="subtitle">Meeting Information</h2>
-                    <h3> Recurring Meeting: Wednesdays at 9 AM</h3>
-                </div>
-
-                <div id="roles">
-                    <h2 class="subtitle">Team Roles</h2>
-                    <h3> NEED TO FILL THIS IN</h3>
+                    <table id="contactInfo">
+                        <tr style="text-align: center;">
+                          <th>Meeting Type</th>
+                          <th>Meeting Time</th>
+                        </tr>
+                        <tr>
+                          <td>Client Meeting</td>
+                          <td>Wednesdays at 9 AM</td>
+                        </tr>
+                        <tr>
+                          <td>Team Meeting</td>
+                          <td>Tuesdays at 8 PM</td>
+                        </tr>
+                        <tr>
+                            <td>Recitation Meeting</td>
+                            <td>Wednesdays at 3:35 PM</td>
+                        </tr>
+                      </table>
                 </div>
 
                 <div id="client_info">
                     <h2 class="subtitle">Information From Client</h2>
-                    <h3> NEED TO FILL THIS IN</h3>
+                    <a class="docLink" href="docs/Video - Journey - 1-12.docx" target="_blank">Storyline and Levels from Talpha</a><br>
+                    <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
+                    <a class="docLink" href="docs/Character Examples.docx" target="_blank">Character Examples</a>
                 </div>
 
                 <div id="journal">
@@ -59,13 +72,27 @@
                     <table id="recordInfo">
                         <tr style="text-align: center;">
                           <th>Date</th>
+                          <th>Meeting Type</th>
                           <th>Topics Discussed</th>
                           <th>Conclusions</th>
                         </tr>
                         <tr>
                             <td>02/03/2021</td>
-                            <td>Meeting w/ client, visions for game</td>
+                            <td>Client</td>
+                            <td>Visions for game</td>
                             <td>Come up with game design (make final decisions), make this website</td>
+                          </tr>
+                          <tr>
+                            <td>02/10/2021</td>
+                            <td>Client</td>
+                            <td>Visions for game</td>
+                            <td>Want to make it a level based game with a story line and trivia questions</td>
+                          </tr>
+                          <tr>
+                            <td>02/10/2021</td>
+                            <td>Client</td>
+                            <td>Visions for game</td>
+                            <td>Want to make it a level based game with a story line and trivia questions</td>
                           </tr>
                       </table>
                 </div>
