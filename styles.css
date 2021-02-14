@@ -41,7 +41,6 @@ th, td {
 #journal {
     padding-left: 10px;
     padding-bottom: 1px;
-    background-color: gainsboro;
     padding-top: 1px;
 }
 
@@ -54,17 +53,18 @@ th, td {
 
 #meeting {
     padding-left: 10px;
-    padding-bottom: 1px;
+    padding-bottom: 10px;
     padding-top: 1px;
 }
 
-#roles {
-    padding-left: 10px;
-    padding-bottom: 1px;
-    background-color: gainsboro;
-    padding-top: 1px;
-}
 
 #client_info {
-    padding-top: 10px;
+    padding-top: 1px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background-color: gainsboro;
+}
+
+.docLink {
+    color: rgb(65, 100, 255);
 }
