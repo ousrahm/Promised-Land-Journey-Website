@@ -89,19 +89,13 @@
                             <td>Want to make it a level based game with a story line and trivia questions</td>
                           </tr>
                           <tr>
-                            <td>02/10/2021</td>
-                            <td>Client</td>
-                            <td>Visions for game</td>
-                            <td>Want to make it a level based game with a story line and trivia questions</td>
-                          </tr>
-                          <tr>
                             <td>02/17/2021</td>
                             <td>Client</td>
                             <td>Visions for game</td>
                             <td>Changed to a stage-based game with text-based story lines and trivia questions in each stage</td>
                           </tr>
                           <tr>
-                            <td>02/17/2021</td>
+                            <td>02/19/2021</td>
                             <td>Professor</td>
                             <td>Visions for game</td>
                             <td>Discussed power-ups and special abilties</td>
