@@ -65,7 +65,8 @@
                     <a class="docLink" href="docs/Video - Journey - 1-12.docx" target="_blank">Storyline and Levels from Talpha</a><br>
                     <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
                     <a class="docLink" href="docs/Character Examples.docx" target="_blank">Character Examples</a><br>
-                    <a class="docLink" href="docs/Game Design Document - COMP 585.pdf" target="_blank">Game Design Document</a>
+                    <a class="docLink" href="docs/Game Design Document - COMP 585.pdf" target="_blank">Game Design Document</a><br>
+                    <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a>
                 </div>
 
                 <div id="journal">
