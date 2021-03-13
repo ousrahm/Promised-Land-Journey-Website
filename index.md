@@ -4,9 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link rel = "stylesheet" href = "styles.css">
-        <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css"> -->
-        <!-- <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script> -->
-        <title>Promised Land Journey Game</title>
+       <title>Promised Land Journey Game</title>
     </head>
     <body>
         <div id="root"></div>
@@ -61,12 +59,13 @@
                 </div>
 
                 <div id="client_info">
-                    <h2 class="subtitle">Information From Client</h2>
+                    <h2 class="subtitle">Game Documents</h2>
                     <a class="docLink" href="docs/Video - Journey - 1-12.docx" target="_blank">Storyline and Levels from Talpha</a><br>
                     <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
                     <a class="docLink" href="docs/Character Examples.docx" target="_blank">Character Examples</a><br>
                     <a class="docLink" href="docs/Game Design Document - COMP 585.pdf" target="_blank">Game Design Document</a><br>
-                    <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a>
+                    <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a><br>
+                    <a class="docLink" href="docs/Promised Land Game Logic (Scene Flow Chart).png" target="_blank">State Machine/Scene Flow Chart/Game Logic</a><br>
                 </div>
 
                 <div id="journal">
@@ -102,6 +101,36 @@
                             <td>Visions for game</td>
                             <td>Discussed power-ups and special abilties</td>
                           </tr>
+                          <tr>
+                            <td>02/24/2021</td>
+                            <td>Client</td>
+                            <td>Design doc review</td>
+                            <td>Finalized game-design document ideas; Discussed images needed</td>
+                          </tr>
+                          <tr>
+                            <td>02/24/2021</td>
+                            <td>Professor</td>
+                            <td>Design doc review</td>
+                            <td>Finalized game-design document ideas; Created goals for the following week</td>
+                          </tr>
+                          <tr>
+                            <td>03/03/2021</td>
+                            <td>Client</td>
+                            <td>Discussed backgrounds</td>
+                            <td>Talked about images, trivia questions, and what we needed</td>
+                          </tr>
+                          <tr>
+                            <td>03/03/2021</td>
+                            <td>Professor</td>
+                            <td>End of sprint 1</td>
+                            <td>Demoed menu, host, join options; Created sprint goals for next sprint</td>
+                          </tr>
+                          <tr>
+                            <td>03/10/2021</td>
+                            <td>Professor</td>
+                            <td>Halfway through sprint 2</td>
+                            <td>Finalized goals for end of sprint</td>
+                          </tr>
                       </table>
                 </div>
             </div>
@@ -110,8 +139,3 @@
         </div>
     </body>
 </html>
-
-
-<!-- $(function() {
-    loadApp();
-}); -->
