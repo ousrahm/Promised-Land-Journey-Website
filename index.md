@@ -66,6 +66,7 @@
                     <a class="docLink" href="docs/Game Design Document - COMP 585.pdf" target="_blank">Game Design Document</a><br>
                     <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a><br>
                     <a class="docLink" href="docs/Promised Land Game Logic (Scene Flow Chart).png" target="_blank">State Machine/Scene Flow Chart/Game Logic</a><br>
+                    <a class="docLink" href="https://ousrahm.github.io/Promised-Land-Game/" target="_blank">Game Website</a><br>
                 </div>
 
                 <div id="journal">
