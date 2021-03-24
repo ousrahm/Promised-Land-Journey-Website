@@ -67,6 +67,7 @@
                     <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a><br>
                     <a class="docLink" href="docs/Promised Land Game Logic (Scene Flow Chart).png" target="_blank">State Machine/Scene Flow Chart/Game Logic</a><br>
                     <a class="docLink" href="https://ousrahm.github.io/Promised-Land-Game/" target="_blank">Game Website</a><br>
+                    <a class="docLink" href="https://drive.google.com/drive/folders/1S0lycf7KZ8ZcgQnGh7nfLGrdNzwCx1Dt?usp=sharing" target="_blank">Google Drive w/ Resources</a><br>
                 </div>
 
                 <div id="journal">
