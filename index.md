@@ -60,15 +60,13 @@
 
                 <div id="client_info">
                     <h2 class="subtitle">Game Documents</h2>
-                    <a class="docLink" href="docs/Video - Journey - 1-12.docx" target="_blank">Storyline and Levels from Talpha</a><br>
-                    <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
-                    <a class="docLink" href="docs/Character Examples.docx" target="_blank">Character Examples</a><br>
-                    <a class="docLink" href="docs/Game Design Document - COMP 585.pdf" target="_blank">Game Design Document</a><br>
+                    <a class="docLink" href="https://promised-land-journey-game.web.app/" target="_blank">Game Website</a><br>
                     <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a><br>
+                    <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
+                    <a class="docLink" href="docs/Game Design Document.pdf" target="_blank">Game Design Document</a><br>
+                    <a class="docLink" href="docs/Software Design Document.pdf" target="_blank">Software Design Document</a><br>
                     <a class="docLink" href="docs/Promised Land Game Logic (Scene Flow Chart).png" target="_blank">State Machine/Scene Flow Chart/Game Logic</a><br>
-                    <a class="docLink" href="https://ousrahm.github.io/Promised-Land-Game/" target="_blank">Game Website</a><br>
                     <a class="docLink" href="https://drive.google.com/drive/folders/1S0lycf7KZ8ZcgQnGh7nfLGrdNzwCx1Dt?usp=sharing" target="_blank">Google Drive w/ Resources</a><br>
-                    <a class="docLink" href="" target="_blank">Software Design Document</a><br>
                 </div>
 
                 <div id="journal">
