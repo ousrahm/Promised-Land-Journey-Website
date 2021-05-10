@@ -8,7 +8,7 @@
     </head>
     <body>
         <div id="root"></div>
-            <h1 id="title">PROMISED LAND JOURNEY™ Game Board</h1>
+            <h1 id="title">Ancient Path Bible Trivia Game</h1>
             <div id="bodyy">
                 <div id="contact">
                     <h2 class="subtitle">Contact Information and Team Roles</h2> 
