@@ -60,13 +60,14 @@
 
                 <div id="client_info">
                     <h2 class="subtitle">Game Documents</h2>
-                    <a class="docLink" href="https://promised-land-journey-game.web.app/" target="_blank">Game Website</a><br>
-                    <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Project Repository (Github)</a><br>
+                    <a class="docLink" href="https://promised-land-journey-game.web.app/" target="_blank">Game</a><br>
+                    <a class="docLink" href="https://github.com/ousrahm/Promised-Land-Game" target="_blank">Repository</a><br>
                     <a class="docLink" href="docs/Board Game Outline.pdf" target="_blank">Board Game Outline</a><br>
                     <a class="docLink" href="docs/Game Design Document.pdf" target="_blank">Game Design Document</a><br>
                     <a class="docLink" href="docs/Software Design Document.pdf" target="_blank">Software Design Document</a><br>
                     <a class="docLink" href="docs/Promised Land Game Logic (Scene Flow Chart).png" target="_blank">State Machine/Scene Flow Chart/Game Logic</a><br>
                     <a class="docLink" href="https://drive.google.com/drive/folders/1S0lycf7KZ8ZcgQnGh7nfLGrdNzwCx1Dt?usp=sharing" target="_blank">Google Drive w/ Resources</a><br>
+                    <a class="docLink" href="https://youtu.be/cvl46uPPFBo" target="_blank">Video</a><br>
                 </div>
 
                 <div id="journal">
